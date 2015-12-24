@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2Calculator/2Calculator.iml" filepath="$PROJECT_DIR$/2Calculator/2Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3Jave4Phone/3Jave4Phone.iml" filepath="$PROJECT_DIR$/3Jave4Phone/3Jave4Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4Project/4Project.iml" filepath="$PROJECT_DIR$/4Project/4Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4module/4module.iml" filepath="$PROJECT_DIR$/4module/4module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5project/5project.iml" filepath="$PROJECT_DIR$/5project/5project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6project/6project.iml" filepath="$PROJECT_DIR$/6project/6project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7project/7project.iml" filepath="$PROJECT_DIR$/7project/7project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8project/8project.iml" filepath="$PROJECT_DIR$/8project/8project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationsyw.iml" filepath="$PROJECT_DIR$/MyApplicationsyw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
